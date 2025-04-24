@@ -1,4 +1,4 @@
-Project 3: Image Similarity
+## Project 3: Image Similarity
 
 We needed to do a classification on images based no similarity. The idea was
 that for a image triple (A,B,C) we classify as 1 if A is more similar to B, than B to C. And 0 otherwise.
