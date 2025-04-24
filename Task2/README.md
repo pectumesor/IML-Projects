@@ -1,4 +1,4 @@
-Project 2: Data Imputing, Encoding and Kernels
+## Project 2: Data Imputing, Encoding and Kernels
 
 We needed to learn a model to predict the housing price in Switzerland, using
 data from other countries in Europe. However, our training data set had missing data and some data was not numerical. Thus, we needed to do the following:
