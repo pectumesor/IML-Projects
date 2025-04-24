@@ -1,4 +1,4 @@
-Project 1: Ridge Regression
+## Project 1: Ridge Regression
 
 1.a) We were tasked with performing a ridge regression on data and doing a 10-fold cross validation.
 We needed to save the RMSE for each lambda we used in a matrix.
