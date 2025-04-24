@@ -1,4 +1,4 @@
-Project 4: Sentiment Analysis
+## Project 4: Sentiment Analysis
 
 Our task in this project was to train a neural network that could best predict how someone was feeling based on product review, they've written. The task is to do a regession
  where 0 is very angry and 10 is very happy.
